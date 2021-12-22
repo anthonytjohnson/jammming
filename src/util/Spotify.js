@@ -1,5 +1,5 @@
 const clientId = 'e2b9cbe91e7440b3be826f19aa446ab8';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://steves-playlist.surge.sh';
 let accessToken;
 
 
